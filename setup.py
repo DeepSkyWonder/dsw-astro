@@ -13,7 +13,7 @@ requirements = [
 
 
 setup(
-    name="dsw-astro",
+    name="dsw_astro",
     version="0.0.1",
     author="Cameron McEwing",
     author_email="deepskywonder@gmail.com",
