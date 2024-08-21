@@ -25,7 +25,7 @@ setup(
 
     packages=find_packages(),
     include_package_data=True,
-    package_data={"": ["dsw-astro/fitting/cepheid/data/*.fits"]},
+    package_data={"": ["dsw_astro/fitting/cepheid/data/*.fits"]},
     exclude_package_data={"": ["README.md"]},
 
     classifiers=[
